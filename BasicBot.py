@@ -2,7 +2,7 @@
 
 import telepot, time
 
-TOKEN = "265190984:AAF43FB_YYXCVE2ZnC6lrEv7v4uiiikZg5Q"# Token
+TOKEN = ""# Token
 bot = telepot.Bot(TOKEN)
 print ('Conectado')
 
